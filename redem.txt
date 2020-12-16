@@ -1,0 +1,12 @@
+copy the code 
+downlod:https://play.google.com/store/apps/details?id=ru.iiec.pydroid3&hl=en_US&gl=US
+open pydroid3
+paste the code 
+and run
+run:
+1.user name your fake accunt
+2.type password
+taget:anything accunt 
+sleep:10
+
+thank you 
